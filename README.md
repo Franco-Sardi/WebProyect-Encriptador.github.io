@@ -3,7 +3,7 @@
 # About the proyect:
 Proyecto de encriptador y desencriptador de texto Utilizando HTML y Css y la lógica a través de JavaScript. Curso Oracle One, Alura Latam
 <br>
-Archivos iniciales del Challange Encriptador de texto "Java Script", de Oracle One, Alura Latamo.
+Archivos iniciales del Challange Encriptador de texto "Java Script", de Oracle One, Alura Latam.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
